@@ -59,10 +59,12 @@ print(result)
 
 ## Output:
 ### L and U Matrix
-![alt text](image.png)
+<img width="1212" height="570" alt="image" src="https://github.com/user-attachments/assets/f1e9b455-5285-4a0d-b2f5-747b0b383d04" />
+
 
 ### Solving a Matrix using LU Decomposition
-![alt text](image-1.png)
+<img width="898" height="312" alt="image" src="https://github.com/user-attachments/assets/f6c392c7-678a-4f85-a9c6-38b955594a5b" />
+
 
 ## Result:
 Thus the program to find L and U Matrix and to solve a Matrix using LU Decomposition is written and verified using python programming.
